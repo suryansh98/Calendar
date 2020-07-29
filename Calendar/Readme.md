@@ -11,7 +11,8 @@
 
 ## How to
 
-To run this project you just have to [clone](https://help.github.com/articles/cloning-a-repository/) this repo in your desired folder and access the index file.
+To run this project you just have to [clone](https://help.github.com/articles/cloning-a-repository/) this repo in your desired folder and access the index file, or you can 
+just click on this CodePen link -"https://codepen.io/suryansh98/pen/NWxVJqo".
 
 ## Technologies used in this project
 
