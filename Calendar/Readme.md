@@ -1,5 +1,5 @@
 <h1 align="center"> Calendar Appointments </h1>
-<p align="center"><img src="https://png.icons8.com/color/overtime/120"></p>
+<p align="center"><img src="https://img.icons8.com/doodle/48/000000/calendar--v2.png"/></p>
 
 ## About the Project
 
